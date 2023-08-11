@@ -1,0 +1,1479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c16f7b3a-538c-49a3-9879-14e0f7b8d2e2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../api_call_demo/lib/api_call_get_demo.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/android/app/src/main/kotlin/com/example/bottom_navigation_bar/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/ios/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/linux/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/linux/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/linux/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/linux/main.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/linux/my_application.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/linux/my_application.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/macos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/macos/Flutter/Flutter-Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/macos/Flutter/Flutter-Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/macos/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/macos/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/macos/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/macos/Runner/Base.lproj/MainMenu.xib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/macos/Runner/Configs/AppInfo.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/macos/Runner/Configs/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/macos/Runner/Configs/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/macos/Runner/Configs/Warnings.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/macos/Runner/DebugProfile.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/macos/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/macos/Runner/MainFlutterWindow.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/macos/Runner/Release.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/macos/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/web/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/web/icons/Icon-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/web/icons/Icon-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/web/icons/Icon-maskable-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/web/icons/Icon-maskable-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/web/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/windows/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/windows/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/windows/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/windows/runner/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/windows/runner/Runner.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/windows/runner/flutter_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/windows/runner/flutter_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/windows/runner/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/windows/runner/resource.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/windows/runner/resources/app_icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/windows/runner/runner.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/windows/runner/utils.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/windows/runner/utils.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/windows/runner/win32_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/windows/runner/win32_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/android/app/src/main/kotlin/com/example/demo/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/ios/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/linux/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/linux/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/linux/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/linux/main.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/linux/my_application.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/linux/my_application.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/macos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/macos/Flutter/Flutter-Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/macos/Flutter/Flutter-Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/macos/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/macos/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/macos/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/macos/Runner/Base.lproj/MainMenu.xib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/macos/Runner/Configs/AppInfo.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/macos/Runner/Configs/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/macos/Runner/Configs/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/macos/Runner/Configs/Warnings.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/macos/Runner/DebugProfile.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/macos/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/macos/Runner/MainFlutterWindow.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/macos/Runner/Release.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/macos/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/web/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/web/icons/Icon-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/web/icons/Icon-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/web/icons/Icon-maskable-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/web/icons/Icon-maskable-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/web/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/windows/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/windows/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/windows/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/windows/runner/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/windows/runner/Runner.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/windows/runner/flutter_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/windows/runner/flutter_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/windows/runner/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/windows/runner/resource.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/windows/runner/resources/app_icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/windows/runner/runner.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/windows/runner/utils.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/windows/runner/utils.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/windows/runner/win32_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/windows/runner/win32_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fast-account" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/android/app/src/main/kotlin/com/example/firebase_curd_implement/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/ios/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/linux/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/linux/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/linux/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/linux/main.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/linux/my_application.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/linux/my_application.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/macos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/macos/Flutter/Flutter-Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/macos/Flutter/Flutter-Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/macos/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/macos/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/macos/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/macos/Runner/Base.lproj/MainMenu.xib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/macos/Runner/Configs/AppInfo.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/macos/Runner/Configs/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/macos/Runner/Configs/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/macos/Runner/Configs/Warnings.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/macos/Runner/DebugProfile.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/macos/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/macos/Runner/MainFlutterWindow.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/macos/Runner/Release.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/macos/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/web/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/web/icons/Icon-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/web/icons/Icon-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/web/icons/Icon-maskable-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/web/icons/Icon-maskable-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/web/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/windows/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/windows/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/windows/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/windows/runner/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/windows/runner/Runner.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/windows/runner/flutter_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/windows/runner/flutter_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/windows/runner/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/windows/runner/resource.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/windows/runner/resources/app_icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/windows/runner/runner.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/windows/runner/utils.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/windows/runner/utils.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/windows/runner/win32_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_curd_implement/windows/runner/win32_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/android/app/src/main/kotlin/com/example/firebase_operations/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/ios/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/linux/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/linux/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/linux/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/linux/main.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/linux/my_application.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/linux/my_application.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/macos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/macos/Flutter/Flutter-Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/macos/Flutter/Flutter-Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/macos/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/macos/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/macos/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/macos/Runner/Base.lproj/MainMenu.xib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/macos/Runner/Configs/AppInfo.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/macos/Runner/Configs/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/macos/Runner/Configs/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/macos/Runner/Configs/Warnings.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/macos/Runner/DebugProfile.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/macos/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/macos/Runner/MainFlutterWindow.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/macos/Runner/Release.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/macos/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/web/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/web/icons/Icon-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/web/icons/Icon-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/web/icons/Icon-maskable-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/web/icons/Icon-maskable-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/web/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/windows/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/windows/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/windows/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/windows/runner/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/windows/runner/Runner.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/windows/runner/flutter_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/windows/runner/flutter_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/windows/runner/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/windows/runner/resource.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/windows/runner/resources/app_icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/windows/runner/runner.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/windows/runner/utils.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/windows/runner/utils.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/windows/runner/win32_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firebase_operations/windows/runner/win32_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flutter-016-jaydeep-sutariya" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../font-demo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/android/app/src/main/kotlin/com/example/local_storage_demo/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/ios/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/linux/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/linux/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/linux/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/linux/main.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/linux/my_application.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/linux/my_application.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/macos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/macos/Flutter/Flutter-Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/macos/Flutter/Flutter-Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/macos/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/macos/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/macos/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/macos/Runner/Base.lproj/MainMenu.xib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/macos/Runner/Configs/AppInfo.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/macos/Runner/Configs/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/macos/Runner/Configs/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/macos/Runner/Configs/Warnings.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/macos/Runner/DebugProfile.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/macos/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/macos/Runner/MainFlutterWindow.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/macos/Runner/Release.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/macos/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/web/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/web/icons/Icon-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/web/icons/Icon-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/web/icons/Icon-maskable-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/web/icons/Icon-maskable-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/web/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/windows/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/windows/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/windows/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/windows/runner/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/windows/runner/Runner.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/windows/runner/flutter_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/windows/runner/flutter_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/windows/runner/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/windows/runner/resource.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/windows/runner/resources/app_icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/windows/runner/runner.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/windows/runner/utils.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/windows/runner/utils.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/windows/runner/win32_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../local_storage_demo/windows/runner/win32_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logic_dart/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logic_dart/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logic_dart/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logic_dart/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logic_dart/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logic_dart/bin/logic_dart.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logic_dart/lib/logic_dart.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logic_dart/logic_dart..iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logic_dart/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logic_dart/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logic_dart/test/logic_dart_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../make_task_app/assets/fonts/bloody-terror-font/BloodyTerror-GOW9Z.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../make_task_app/assets/fonts/bloody-terror-font/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../make_task_app/assets/fonts/gendong-sarpin-font/GendongSarpin-L3g7Z.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../make_task_app/assets/fonts/gendong-sarpin-font/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../make_task_app/assets/fonts/gendong-sarpin-font/misc/Readme GFRcreative.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../make_task_app/assets/fonts/lemondrops-font/LemondropspersonaluseBold-9Yn02.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../make_task_app/assets/fonts/lemondrops-font/LemondropspersonaluseBold-ywDEV.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../make_task_app/assets/fonts/lemondrops-font/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../make_task_app/assets/fonts/lemondrops-font/misc/! ! ! TERMS OF USE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../make_task_app/lib/loading_loader_process.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../make_task_app/lib/login_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../make_task_app/lib/mainPage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../make_task_app/lib/show_message.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../make_task_app/lib/sign_up.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../make_task_app/lib/splash_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/android/app/src/main/kotlin/com/example/demo/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/ios/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/lib/home_page_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/lib/new_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/linux/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/linux/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/linux/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/linux/main.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/linux/my_application.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/linux/my_application.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/macos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/macos/Flutter/Flutter-Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/macos/Flutter/Flutter-Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/macos/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/macos/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/macos/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/macos/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/macos/Runner/Base.lproj/MainMenu.xib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/macos/Runner/Configs/AppInfo.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/macos/Runner/Configs/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/macos/Runner/Configs/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/macos/Runner/Configs/Warnings.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/macos/Runner/DebugProfile.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/macos/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/macos/Runner/MainFlutterWindow.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/macos/Runner/Release.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/macos/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/web/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/web/icons/Icon-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/web/icons/Icon-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/web/icons/Icon-maskable-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/web/icons/Icon-maskable-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/web/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/windows/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/windows/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/windows/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/windows/runner/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/windows/runner/Runner.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/windows/runner/flutter_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/windows/runner/flutter_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/windows/runner/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/windows/runner/resource.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/windows/runner/resources/app_icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/windows/runner/runner.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/windows/runner/utils.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/windows/runner/utils.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/windows/runner/win32_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/demo/windows/runner/win32_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/android/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/android/app/src/main/kotlin/com/example/my_app/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/ios/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/linux/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/linux/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/linux/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/linux/main.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/linux/my_application.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/linux/my_application.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/macos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/macos/Flutter/Flutter-Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/macos/Flutter/Flutter-Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/macos/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/macos/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/macos/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/macos/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/macos/Runner/Base.lproj/MainMenu.xib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/macos/Runner/Configs/AppInfo.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/macos/Runner/Configs/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/macos/Runner/Configs/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/macos/Runner/Configs/Warnings.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/macos/Runner/DebugProfile.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/macos/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/macos/Runner/MainFlutterWindow.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/macos/Runner/Release.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/macos/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/web/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/web/icons/Icon-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/web/icons/Icon-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/web/icons/Icon-maskable-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/web/icons/Icon-maskable-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/web/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/windows/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/windows/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/windows/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/windows/runner/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/windows/runner/Runner.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/windows/runner/flutter_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/windows/runner/flutter_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/windows/runner/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/windows/runner/resource.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/windows/runner/resources/app_icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/windows/runner/runner.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/windows/runner/utils.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/windows/runner/utils.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/windows/runner/win32_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mix demo/my_app/windows/runner/win32_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../my_first_app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/.idea/new.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/android/app/src/main/kotlin/com/example/fast_account/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/assets/fonts/FontsFree-Net-SFProDisplay-Regular-1.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/assets/fonts/FontsFree-Net-SFProText-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/assets/fonts/Poppins-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/assets/images/G_logo_continue_with_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/assets/images/Vector.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/assets/images/app_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/assets/images/forgot_page_png.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/lib/business_information.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/lib/creat_account.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/lib/forgot_password.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/lib/login_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/linux/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/linux/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/linux/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/linux/main.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/linux/my_application.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/linux/my_application.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/macos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/macos/Flutter/Flutter-Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/macos/Flutter/Flutter-Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/macos/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/macos/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/macos/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/macos/Runner/Base.lproj/MainMenu.xib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/macos/Runner/Configs/AppInfo.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/macos/Runner/Configs/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/macos/Runner/Configs/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/macos/Runner/Configs/Warnings.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/macos/Runner/DebugProfile.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/macos/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/macos/Runner/MainFlutterWindow.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/macos/Runner/Release.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/web/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/web/icons/Icon-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/web/icons/Icon-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/web/icons/Icon-maskable-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/web/icons/Icon-maskable-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/web/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/windows/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/windows/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/windows/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/windows/runner/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/windows/runner/Runner.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/windows/runner/flutter_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/windows/runner/flutter_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/windows/runner/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/windows/runner/resource.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/windows/runner/resources/app_icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/windows/runner/runner.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/windows/runner/utils.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/windows/runner/utils.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/windows/runner/win32_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/Fast account/windows/runner/win32_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/fast_account/Fast account/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/fast_account/Fast account/fast_account.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/android/app/src/main/kotlin/com/example/my_first_ap/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/assets/images/dgs1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/assets/images/dsg3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/assets/images/dsg4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/lib/RowTask.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/lib/appbar1.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/lib/appbar2.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/lib/card_divider_wigit.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/lib/cointainer2.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/lib/container1.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/lib/design_with_images.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/lib/dilagouebox.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/lib/expanded_demo.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/lib/expanded_taskkk.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/lib/loginpage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/lib/media_quarry.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/lib/mix.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/lib/practise_try.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/lib/rawcoloum_task.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/lib/rawcolumn.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/lib/scaffold.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/lib/scroll-view-task.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/lib/scroll_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/lib/stackloginpage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/lib/verification_page_design.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/linux/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/linux/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/linux/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/linux/main.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/linux/my_application.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/linux/my_application.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/macos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/macos/Flutter/Flutter-Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/macos/Flutter/Flutter-Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/macos/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/macos/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/macos/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/macos/Runner/Base.lproj/MainMenu.xib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/macos/Runner/Configs/AppInfo.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/macos/Runner/Configs/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/macos/Runner/Configs/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/macos/Runner/Configs/Warnings.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/macos/Runner/DebugProfile.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/macos/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/macos/Runner/MainFlutterWindow.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/macos/Runner/Release.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/web/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/web/icons/Icon-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/web/icons/Icon-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/web/icons/Icon-maskable-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/web/icons/Icon-maskable-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/web/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/windows/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/windows/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/windows/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/windows/runner/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/windows/runner/Runner.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/windows/runner/flutter_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/windows/runner/flutter_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/windows/runner/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/windows/runner/resource.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/windows/runner/resources/app_icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/windows/runner/runner.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/windows/runner/utils.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/windows/runner/utils.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/windows/runner/win32_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new/my_first_ap/windows/runner/win32_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/android/app/src/main/kotlin/com/example/test1/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/ios/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/linux/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/linux/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/linux/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/linux/main.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/linux/my_application.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/linux/my_application.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/macos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/macos/Flutter/Flutter-Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/macos/Flutter/Flutter-Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/macos/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/macos/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/macos/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/macos/Runner/Base.lproj/MainMenu.xib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/macos/Runner/Configs/AppInfo.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/macos/Runner/Configs/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/macos/Runner/Configs/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/macos/Runner/Configs/Warnings.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/macos/Runner/DebugProfile.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/macos/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/macos/Runner/MainFlutterWindow.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/macos/Runner/Release.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/macos/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/web/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/web/icons/Icon-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/web/icons/Icon-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/web/icons/Icon-maskable-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/web/icons/Icon-maskable-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/web/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/windows/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/windows/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/windows/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/windows/runner/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/windows/runner/Runner.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/windows/runner/flutter_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/windows/runner/flutter_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/windows/runner/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/windows/runner/resource.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/windows/runner/resources/app_icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/windows/runner/runner.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/windows/runner/utils.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/windows/runner/utils.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/windows/runner/win32_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test1/windows/runner/win32_window.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bottom_navigation_bar/lib/bottom4.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/lib/bottom4.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bottom_navigation_bar/lib/bottom5.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/lib/bottom5.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bottom_navigation_bar/lib/bottom6.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/lib/bottom6.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bottom_navigation_bar/lib/bottom7.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/lib/bottom7.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bottom_navigation_bar/lib/bottom8.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/lib/bottom8.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bottom_navigation_bar/lib/bottom9.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/lib/bottom9.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bottom_navigation_bar/lib/bottomNev1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/lib/bottomNev1.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bottom_navigation_bar/lib/bottomNev2.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/lib/bottomNev2.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bottom_navigation_bar/lib/bottomNev3.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../bottom_navigation_bar/lib/bottomNev3.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../firebase_curd_implement/lib/fillForm.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../firebase_curd_implement/lib/fillForm.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../firebase_curd_implement/lib/homePage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../firebase_curd_implement/lib/homePage.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../firebase_operations/lib/add_data_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../firebase_operations/lib/add_data_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../firebase_operations/lib/home_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../firebase_operations/lib/home_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../firebase_operations/lib/try_page1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../firebase_operations/lib/try_page1.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../firebase_operations/lib/try_page2.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../firebase_operations/lib/try_page2.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../image_picker_demo/lib/fig.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../image_picker_demo/lib/fig.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../image_picker_demo/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../image_picker_demo/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../local_storage_demo/lib/loca_strg_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../local_storage_demo/lib/loca_strg_list.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../local_storage_demo/lib/local_storage_demo.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../local_storage_demo/lib/local_storage_demo.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../local_storage_demo/lib/local_strg_double.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../local_storage_demo/lib/local_strg_double.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../local_storage_demo/lib/local_strg_string.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../local_storage_demo/lib/local_strg_string.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../local_storage_demo/lib/locat_strg_bool.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../local_storage_demo/lib/locat_strg_bool.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logic_dart/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../logic_dart/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logic_dart/bin/max_min_number_in_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../logic_dart/bin/max_min_number_in_list.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logic_dart/lib/jeason_list_of_map.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../logic_dart/lib/jeason_list_of_map.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logic_dart/lib/max_min_character_number_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../logic_dart/lib/max_min_character_number_list.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logic_dart/lib/min_max_nuumber_inlist.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../logic_dart/lib/min_max_nuumber_inlist.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logic_demo/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../new/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logic_demo/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logic_demo/.idea/libraries/Dart_SDK.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logic_demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logic_demo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../new/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logic_demo/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QrY80dSv2MH9WtsfuMVZrOuZR8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "I:/flutter projects/MakeTaskApp/harshnotsapp",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\notsapp\assets\image" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\HP\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c16f7b3a-538c-49a3-9879-14e0f7b8d2e2" name="Changes" comment="" />
+      <created>1686113027077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686113027077</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
