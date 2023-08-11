@@ -1,0 +1,28 @@
+step of apply project or app in firebase
+
+
+1) creat project in fire base
+
+2)go to app/build.gradel/ copy application id
+
+3) paste that application id in firebase 
+
+4)go to this website  https://medium.com/enappd/adding-firebase-to-your-flutter-app-281b8f391b47  
+5)copy plugins from that website 
+
+like:-apply plugin: 'com.google.gms.google-services'this plugin paste intp app/build.gradel and then give alt + enter
+and change version
+and
+this path classpath 'com.google.gms:google-services:4.2.0' past in projevt level build.gradel
+
+6) go to website and serch pub.dev and in pub.dev search firebase_core copy that dependencies (like:-firebase_core: ^2.15.0) and go to android studio in android studio project pubspec.yaml go to cupertino_iconsgive enter and paste that dependencies
+
+7) now firebase_core website that alread open in web  in that go to example copy(await Firebase.initializeApp(
+      options: DefaultFirebaseOptions.currentPlatform,
+    );) amd paste in main.dart after paste remove( options: DefaultFirebaseOptions.currentPlatform,) this much portion from that paste code and import library.
+
+8)after that remove (;) and write (.then((value) => debugPrint("flutter firebase run sucessfully"));)
+
+9) after that this (WidgetsFlutterBinding.ensureInitialized();) paste in void main
+
+10) after this go to app/build.gradel application id at last paste this multiDexEnabled true.

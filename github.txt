@@ -1,0 +1,28 @@
+https://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@github.com/frontbitdevelopment/flutter-016-jaydeep-sutariya.git
+https://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@github.com/jdsutariya7/fast-account.git
+https://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@github.com/jdsutariya7/my_first_app.git
+https://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@github.com/jdsutariya7/font-demo.git
+
+
+dart&flutter token = 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
+        demo token = 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
+   first app token = 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
+   font demo token = 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
+
+   steps
+
+1 github.com
+2 profile section
+3 setting
+4 developer setting
+5 personal access token
+6 token (classic)
+7 generate new token
+8 generate new token (classic)
+9 generate new token
+
+git config user.name "jaydeep"
+git config user.email "jaydeep@gmail.com"
+git add .
+git commit -m "message"
+git push

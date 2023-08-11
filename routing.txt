@@ -1,0 +1,13 @@
+                      
+data pass  :-
+
+Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => second2(),
+                  ),
+                );
+
+data pop means back :-
+
+ Navigator.pop(context);

@@ -1,0 +1,35 @@
+api call = 
+
+
+
+1) put or give internet permission in android studio/project/android/src/main/androidManifest.xml 
+like:-(<uses-permission android:name="android.permission.INTERNET" />)
+
+2) then go to web browsr serch http flutter and copy library and paste into pubspec.yml into cupertionsection and run pubget
+library link (https://pub.dev/packages/http)
+
+3) import ('package:flutter/material.dart';) then import ('package:http/http.dart' as http;)
+
+5) make a variable of list like (list userList = [];)
+
+5) then make function to get api and see status code and body(contain)
+like:-( void getDataAPI() async {
+    http.Response response = await http.get(
+        Uri.parse("https://reqres.in/api/users?page=2"));
+    print("response code -- ${response.statusCode}");
+    print("response body -- ${jsonDecode(response.body)['']}");
+    userList = jsonDecode(response.body)['data'];
+    setState(() {});
+    print(userList);
+  } )
+assign this jsonDecode(response.body)['data'] to that variable we already make userList and give setstate.
+
+6) after that put inistate that call once ina a class
+   like:-( @override
+  void initState() {
+    // TODO: implement initState
+    super.initState();
+    getDataAPI();
+  } )
+
+

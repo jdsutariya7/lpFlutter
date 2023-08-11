@@ -1,0 +1,17 @@
+Future uploadFile() async {
+  String fileName = DateTime.now().millisecondsSinceEpoch.toString();
+  Reference reference = FirebaseStorage.instance.ref().child(fileName);
+  UploadTask uploadTask = reference.putFile(imageFile!);
+  try {
+   TaskSnapshot snapshot = await uploadTask;
+   imageUrl = await snapshot.ref.getDownloadURL();
+   setState(() {
+    isLoading = false;
+    onSendMessage(imageUrl, 1);
+   });
+  } on FirebaseException catch (e) {
+   setState(() {
+    isLoading = false;
+   });
+   log('Error --- ${e.message}');
+}
