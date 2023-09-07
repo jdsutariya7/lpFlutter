@@ -1,0 +1,8 @@
+getx 
+
+final controller = Get.put(here put that controller)
+
+
+1)RX
+2)obs
+3)obx (()=> widgit)
